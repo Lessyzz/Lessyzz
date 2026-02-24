@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Onur</h1>
-<h3 align="center">Founder @ Softsprout | Cyber Security Instructor | Full Stack Web & Game Developer & Security Expert for Games</h3>
+<h1 align="center">Hi, I'm Onur</h1>
+<h3 align="center">Founder @ Softsprout | Cyber Security | Full Stack Web & Game Developer & Security Expert for Games</h3>
 
 - 🔭 I’m currently working on **Game Development**
 
