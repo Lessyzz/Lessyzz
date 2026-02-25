@@ -46,17 +46,13 @@ Founder @ Softsprout | Cyber Security | Full Stack Web & Game Developer & Securi
 
 ## GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Lessyz&show_icons=true&count_private=true&theme=dark" alt="GitHub İstatistikleri" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lessyz&layout=compact&theme=dark" alt="En Çok Kullanılan Diller" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Lessyz&theme=dark" alt="GitHub Streak" />
+<img src="https://github-stats-alpha.vercel.app/api?username=Lessyzz&cc=000&tc=fff&ic=fff&bc=000" alt="GitHub Stats" />
 
 ## GitHub Trophies
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lessyz" alt="trophy" />
+<img src="https://github-profile-trophy-one.vercel.app/?username=Lessyzz&theme=dark" alt="trophy" />
 
 ## GitHub Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lessyz&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lessyzz&radius=16&theme=github_dark&area=true&order=5" height="300" alt="activity-graph" />
 
